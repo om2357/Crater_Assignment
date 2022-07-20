@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crater_Assignment</string>
+    <string name="crater">Crater</string>
+    <string name="let_s_talk_with_our_expert_s">Let\'s talk with our expert\'s</string>
+    <string name="chat_us">Chat Us</string>
+    <string name="about_us">About Us</string>
+    <string name="app_in_progress">App in progress</string>
+</resources>
